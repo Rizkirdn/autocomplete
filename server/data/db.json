@@ -1,0 +1,41 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "text": "React.js documentation",
+      "category": "Framework",
+      "count": 1250
+    },
+    {
+      "id": 2,
+      "text": "React hooks useEffect",
+      "category": "Tutorial",
+      "count": 890
+    },
+    {
+      "id": 3,
+      "text": "Tailwind CSS components",
+      "category": "UI",
+      "count": 2100
+    },
+    {
+      "id": 4,
+      "text": "JavaScript array methods",
+      "category": "Language",
+      "count": 1560
+    },
+    {
+      "id": 5,
+      "text": "Node.js Express tutorial",
+      "category": "Backend",
+      "count": 980
+    },
+    {
+      "id": 1779541412442,
+      "text": "Anggur",
+      "category": "Buah",
+      "count": 0
+    }
+  ],
+  "recentSearches": []
+}
